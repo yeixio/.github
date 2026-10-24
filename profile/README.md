@@ -1,11 +1,15 @@
 # Yeix.io
 
-Yeix.io is a small, focused engineering studio building opinionated tools and experiences:
+[Yeix](https://yeix.io) is a small software and IT studio in Juneau, Alaska. We build and look after
+[websites for Juneau businesses](https://yeix.io/juneau-web-design), online booking for
+[Alaska tour operators](https://yeix.io/alaska-tour-booking-websites), and
+[business email, hosting, and IT support](https://yeix.io/products), and we make our own products:
 
-- **Pacific North North** – Bespoke adventure tourism in Alaska & Pacific Northwest Canada  
-- **Fundr.Science** – Crowd-funded science with transparent project tracking  
-- **DungeonParty.ai** – Multiplayer, AI-driven tabletop RPG sessions in your browser  
-- **Zero-Coach / Zero-Hero** – Tools for precision shooting and ballistic coaching  
+- **[Toskar](https://toskar.ai)** – Private AI on hardware you own; [setup and support for businesses](https://yeix.io/toskar)
+- **[Pacific North North](https://pacificnorthnorth.com)** – Booking marketplace for adventures in Alaska & Pacific Northwest Canada
+- **[DungeonParty.ai](https://dungeonparty.ai)** – Multiplayer, AI-driven tabletop RPG sessions in your browser
+- **[Fundr.Science](https://fundr.science)** – Crowd-funded science with transparent project tracking
+- **Lucid Glow, Zero Helper, and Proxa** – Small phone apps
 - Plus a handful of internal DevOps tooling and experiments
 
 We care a lot about:
@@ -33,7 +37,8 @@ If you’re browsing:
 
 ## Getting in touch
 
-- Website: [https://yeix.io](https://yeix.io)  
+- Website: [yeix.io](https://yeix.io), web design and IT services in Juneau, Alaska  
+- Toskar: [toskar.ai](https://toskar.ai)  
 - Adventure tourism: [https://pacificnorthnorth.com](https://pacificnorthnorth.com)  
 - Science funding: [https://fundr.science](https://fundr.science)
 
