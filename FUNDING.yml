@@ -1,0 +1,4 @@
+# The Sponsor button on every yeixio repository that has no FUNDING.yml of
+# its own: the list of projects that take donations, by card through Yeix's
+# Stripe checkout.
+custom: ["https://yeix.io/donate"]
