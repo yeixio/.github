@@ -12,6 +12,10 @@
 - **Lucid Glow, Zero Helper, and Proxa** – Small phone apps
 - Plus a handful of internal DevOps tooling and experiments
 
+## Support our open source
+
+[Toskar Core](https://github.com/yeixio/toskar-core), [Matinee](https://github.com/yeixio/matinee), [KubeBridge MCP](https://github.com/yeixio/KubeBridge-MCP), [Air-Mixer](https://github.com/yeixio/air-mixer), [Northern Lights](https://github.com/yeixio/northern-lights), and [LedgerMind](https://github.com/yeixio/LedgerMind) are free to use. If one of them helps you, you can [donate to it](https://yeix.io/donate), once or monthly. Each donation goes to the project you pick.
+
 We care a lot about:
 
 - ✅ Clear documentation  
